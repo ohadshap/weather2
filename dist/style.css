@@ -106,66 +106,111 @@ html {
 
 /* need to change background color to backgroung image with fitting image */
 
-.w01d{
-    background-color: black;
+.w01d{ 
+    /* clear sky */
+    /* background-color: black; */
+    background-image: url(https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulus-cloud.jpg)
 }
 
 .w02d{
-    background-color: green;
+    /* few clouds */
+    /* background-color: green; */
+    background-image: url(https://images2.minutemediacdn.com/image/upload/c_crop,h_1193,w_2121,x_0,y_221/f_auto,q_auto,w_1100/v1555155296/shape/mentalfloss/iStock-104472907.jpg)
 }
 
 .w03d{
-    background-color: blue;
+    /* scattered clouds */
+    /* background-color: blue; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSvn18WGBKwu-wojzf6Eo8Vf-zGNf_jBrXS5cwi62c5lz7umy6)
 }
 
 .w04d{
-    background-color: palegoldenrod;
+    /* 	broken clouds */
+    /* background-color: palegoldenrod; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvxgB7plyrDj_-JKSOqJTF_MQ58EyXds8Ozw-ADEU2bpHtPAA4)
 }
 
 .w09d{
-    background-color: darkmagenta;
+    /* shower rain */
+    /* background-color: darkmagenta; */
+    background-image: url(https://3.bp.blogspot.com/-bboBBlrS_AA/XNmDXx_fT9I/AAAAAAAADgM/qnjL-wNv_yEtr0aWyDmGggK77HVNe3d6gCLcBGAs/s1600/eight_col_heavy_rain-520x400.jpg)
 }
 
 .w10d{
-    background-color: maroon;
+    /* 	rain */
+    /* background-color: maroon; */
+    background-image: url(https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 }
 
 .w11d{
-    background-color: turquoise;
+    /* 	thunderstorm */
+    /* background-color: turquoise; */
+    background-image: url(https://images.unsplash.com/photo-1508697014387-db70aad34f4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+}
+
+.w13d {
+    /* snow */
+    /* background-color: brown; */
+    background-image: url(https://img.freepik.com/free-vector/realistic-snowfall-background_23-2148409802.jpg?size=626&ext=jpg);
 }
 
 .w50d{
-    background-color: firebrick;
+    /* 	mist */
+    /* background-color: firebrick; */
+    background-image: url(https://improvephotography.com/wp-content/uploads/2018/02/brendapetrella_18384.jpg);
 }
 
 .w01n{
-    background-color: red;
+    /* clear sky */
+    /* background-color: red; */
+    background-image: url(https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulus-cloud.jpg)
 }
 
 .w02n{
-    background-color: fuchsia;
+    /* few clouds */
+    /* background-color: fuchsia; */
+    background-image: url(https://lh3.googleusercontent.com/proxy/ST2u2QgH7_WEjZz2ehYRmDRAFBubGzJhFrzwGnREikUPRd1t0NIsCZmdoQS-JmtvqK1iOT-4iGMEvjfOsffR4kMLMFj--oW3VZ_QUpL5BjXmynf479hZiJ42dhe-_uD58UxwglmNuUoTqw)
 }
 
 .w03n{
-    background-color: violet;
+    /* scattered clouds */
+    /* background-color: violet; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSvn18WGBKwu-wojzf6Eo8Vf-zGNf_jBrXS5cwi62c5lz7umy6)
 }
 
 .w04n{
-    background-color: salmon;
+    /* 	broken clouds */
+    /* background-color: salmon; */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvxgB7plyrDj_-JKSOqJTF_MQ58EyXds8Ozw-ADEU2bpHtPAA4)
 }
 
 .w09n{
-    background-color: white;
+    /* shower rain */
+    /* background-color: white; */
+    background-image: url(https://3.bp.blogspot.com/-bboBBlrS_AA/XNmDXx_fT9I/AAAAAAAADgM/qnjL-wNv_yEtr0aWyDmGggK77HVNe3d6gCLcBGAs/s1600/eight_col_heavy_rain-520x400.jpg)
 }
 
 .w10n{
-    background-color: khaki;
+    /* 	rain */
+    /* background-color: khaki; */
+    background-image: url(https://images.pexels.com/photos/125510/pexels-photo-125510.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 }
 
 .w11n{
-    background-color: yellow;
+    /* 	thunderstorm */
+    /* background-color: yellow; */
+    background-image: url(https://images.unsplash.com/photo-1508697014387-db70aad34f4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+}
+
+
+.w13n {
+    /* snow */
+    /* background-color: darkgoldenrod; */
+    background-image: url(https://img.freepik.com/free-vector/realistic-snowfall-background_23-2148409802.jpg?size=626&ext=jpg);
 }
 
 .w50n{
-    background-color: sienna;
+    /* 	mist */
+    /* background-color: sienna; */
+    background-image: url(https://improvephotography.com/wp-content/uploads/2018/02/brendapetrella_18384.jpg);
 }
