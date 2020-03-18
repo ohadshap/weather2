@@ -37,7 +37,7 @@ class WeatherManager {
         let i = WM.cityData.findIndex(c => c.name == city.name)
         await $.post('/city', city)
         console.log(`saved ${city.name}`);
-        this.cityData[i]._id =true
+        this.cityData[i]._id = true
     }
 
     async removeCity(cityName) {
